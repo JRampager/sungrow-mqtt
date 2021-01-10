@@ -4,6 +4,7 @@ Copyright (c) 2021 Pontus Nordin
 A python 2.7 script to allow direct monitoring of sungrow inverters (tested with SG20KTL-M) over LAN TCP modbus connections and publish to MQTT (Home Assistant)
 
 Based on a copy of [thomasfa18's Sungrow Monitor script](https://github.com/thomasfa18/solar-sungrow)
+
 MQTT stuff stolen from all over the internet
 
 First try with python... not good looking and probably not efficient or totally failsafe
