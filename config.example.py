@@ -1,0 +1,11 @@
+inverter_ip = "your_inverter_ip"
+inverter_port = 502
+slave = 0x01
+mqtt_server = "your_mqtt_server_ip"
+mqtt_port = 1883
+mqtt_devicename = "Sungrow20KTL-M"
+mqtt_username = "your_mqtt_username"
+mqtt_password = "your_mqtt_password"
+timeout = 3
+scan_interval = 30 #seconds
+timezone= "Europe/Stockholm"
