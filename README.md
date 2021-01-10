@@ -7,8 +7,10 @@ Based on a copy of [thomasfa18's Sungrow Monitor script](https://github.com/thom
 MQTT stuff stolen from all over the internet
 
 First try with python... not good looking and probably not efficient or totally failsafe
+
 First try with MQTT... probably not doing it right... lots of problem with publishing state after X number of messages, return code = 4
 Probably not handling network loop correct...
+
 Has been running fine for some time now 
 
 ## Getting Started
