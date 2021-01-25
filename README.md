@@ -35,7 +35,7 @@ In no event shall "The Developer" be liable to you or any third party for any sp
 
 The downloading or other acquisition of any Content through the site is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system or loss of data that results from the downloading or acquisition of any such Content. No advice or information, whether oral or written, obtained by you from "The Developer" or through or from the site shall create any warranty not expressly stated in the terms of use.
 
-  - This has been tested on a a sungrow SG20KTL-M inverter only
+  - This has been tested on a sungrow SG20KTL-M inverter only with the script running on a Raspberry PI 3b+ 
   - A list of "valid devices" is included at the top of the modbus map, this came from the sungrow modbus specification document directly. It may work with other devices, I do not know.
   - The script only performs reads of the input registers (function code 04), if you do not know anything about modbus I would highly dicourage you from making changes.
   - In short, you are welcome to use this, but if you do you are agreeing that if something bad happens then it was not my fault and you can't sue me.
